@@ -46,9 +46,7 @@ This repo was just reamped to suit an Anime-centric community. All original cred
 The Support group can be reached out to at [Koyūki • Support](https://telegram.dog/Koyuki_Support), where you can ask for help about [NekoRobot](https://telegram.dog/NekoXRobot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 
-	<summary>Heroku Deploy</summary>
-	<br>
-	<b>
+	
 The Easiest Way to Deploy This Bot is Via Heroku.
 		In Order To deploy, You Just Have Fill The Necessary Environment Variables and Done!</b>
 	
