@@ -45,7 +45,7 @@ This repo was just reamped to suit an Anime-centric community. All original cred
 
 The Support group can be reached out to at [Koyūki • Support](https://telegram.dog/Koyuki_Support), where you can ask for help about [NekoRobot](https://telegram.dog/NekoXRobot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
-<details>
+
 	<summary>Heroku Deploy</summary>
 	<br>
 	<b>
@@ -54,13 +54,13 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 	
   <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/Awesome-Prince/NekoRobot-3.git">
+        <a href="https://heroku.com/deploy?template=https://github.com/erenop2k/NekoRobot-3">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
 </h1>
 
-</details> 
+
 
 <details>
     <summary>More Deploy Options</summary>
